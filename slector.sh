@@ -3,21 +3,21 @@
 # Define script directory
 SCRIPT_DIR="$(dirname "$(readlink -f "$0")")/scripts"
 
-# Define banner
+# Banner
 BANNER='
    ______   ___________________  ___
   / __/ /  / __/ ___/_  __/ __ \/ _ \
  _\ \/ /__/ _// /__  / / / /_/ / , _/
 /___/____/___/\___/ /_/  \____/_/|_| '
 
-# Define footer
+# Footer
 FOOTER=$(echo "$BANNER" | sed 's/./-/g')
 
-# Define colors
+# Colors
 YELLOW='\033[1;33m'
 NC='\033[0m'
 
-# Define function to display scripts
+# Display
 function display_scripts {
     clear
     echo -e "${YELLOW}$BANNER${NC}\n"
