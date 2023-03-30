@@ -7,12 +7,10 @@ Use:
   
  Instructions:
  
-  Create a new folder, in the same directory as slector.sh named 'scripts'
-  
   Slector must reside in the same directory as the 'scripts' directory.
   
   Put your scripts in the scripts folder, execute the slector.sh script.
   
   Enter your selection (1,2,3,Q, etc..)
   
-  Watch as your little scipt goes!
+  Watch as your little scripts go!
