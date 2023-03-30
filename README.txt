@@ -7,6 +7,8 @@ Use:
   
  Instructions:
  
+  Create a new folder, in the same directory as slector.sh named 'scripts'
+  
   Slector must reside in the same directory as the 'scripts' directory.
   
   Put your scripts in the scripts folder, execute the slector.sh script.
