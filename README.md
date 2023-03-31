@@ -1,4 +1,4 @@
-![](https://github.com/kylezwhite/slector/ignore/slectorgif.gif)
+![](ignore/slectorgif.gif)
 Use:
   Handy tool for technicians to run scripts and record the output. 
   Technicians may keep the info on the screen until they command the script to go back to the menu.
