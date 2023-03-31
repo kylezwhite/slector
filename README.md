@@ -9,7 +9,7 @@ Use:
  
   Slector must reside in the same directory as the 'scripts' directory.
   
-  Put your scripts in the scripts folder, execute the slector.sh script.
+  Put your scripts (Must have .sh file extension to work!) in the scripts folder, execute the slector.sh script.
   
   Enter your selection (1,2,3,Q, etc..)
   
