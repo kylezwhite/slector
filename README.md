@@ -4,9 +4,7 @@ Use:
   Technicians may keep the info on the screen until they command the script to go back to the menu.
   Dynamically updates the menu each time a new script is put into the scripts directory
   Gives a command line interface to run .sh scripts from the scripts folder
-  
-  
-  <br>
+    <br>
  Instructions:
  
   Slector must reside in the same directory as the 'scripts' directory.
