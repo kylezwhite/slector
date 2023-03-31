@@ -6,6 +6,7 @@ Use:
   Gives a command line interface to run .sh scripts from the scripts folder
   
   
+  
  Instructions:
  
   Slector must reside in the same directory as the 'scripts' directory.
